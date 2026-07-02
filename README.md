@@ -1,5 +1,11 @@
-# 💫 About Me:
-# Hi there, I'm Hamza 👋<br><br>## 📊 About Me<br><br>I'm a Junior Data Analyst passionate about transforming raw data into meaningful business insights.<br><br>My focus is on developing end-to-end analytics projects that combine data cleaning, SQL analysis, visualization, and business storytelling.<br><br>Currently building a portfolio focused on real-world business intelligence projects.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages & Databases**<br><br>* SQL (Advanced)<br>* MySQL<br>* Python (Learning)<br><br>**Data Analysis**<br><br>* Microsoft Excel<br>* Google Sheets<br>* Data Cleaning<br>* Exploratory Data Analysis (EDA)<br>* KPI Analysis<br><br>**Business Intelligence**<br><br>* Tableau<br>* Power BI (Learning)<br><br>**Digital Analytics**<br><br>* Google Analytics 4 (GA4)<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🌍 Workforce Shockwaves<br><br>SQL analysis of global layoffs during and after the COVID-19 era.<br><br>### 🎮 Video Game Industry Analysis<br><br>Business intelligence project exploring global video game sales, publishers, platforms, and regional trends.<br><br>### 🏡 Airbnb Italy Market Analysis *(Coming Soon)*<br><br>Identifying the most profitable Italian locations for Airbnb investments using SQL and Tableau.<br><br>### 📈 Twitter Brand Sentiment Analysis *(Coming Soon)*<br><br>Master's thesis project analyzing user-generated content from Twitter to measure the impact of online scandals on brand performance.<br><br>---<br><br>## 🌱 Currently Learning<br><br>* Tableau<br>* Power BI<br>* Python for Data Analysis<br>* Data Visualization<br>* Statistical Analysis<br><br>---<br><br>## 🎯 Career Goal<br><br>Seeking opportunities as a **Junior Data Analyst**, **Business Intelligence Analyst**, or **Marketing/Data Analytics Specialist**, where I can transform data into actionable business decisions.<br><br>---<br><br>## 📫 Connect With Me<br><br>* LinkedIn: *(Add your profile link)*<br>* Email: [hezzaouraki@gmail.com](mailto:hezzaouraki@gmail.com)<br><br>---<br><br>> *"Without data, you're just another person with an opinion."* — W. Edwards Deming<br><br>most used languages are SQL, Python, ...
+# 💫 About Me
+
+👋 Hi, I'm **Hamza**
+
+📊 Junior Data Analyst passionate about transforming data into actionable business insights using **SQL, Tableau, Python, Excel, and Google Analytics 4**.
+
+🚀 Currently building real-world analytics and business intelligence projects while continuously expanding my skills in data visualization and advanced analytics.
+
 
 
 ## 🌐 Socials:
